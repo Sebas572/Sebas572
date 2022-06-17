@@ -5,9 +5,19 @@
 
 - 🌱 I’m currently learning React 
 
-<picture>
-  <img alt="Javascript" src="Javascript.png" width="50">
-  <img alt="Javascript" src="Java.png" width="50">
-  <img alt="Javascript" src="Csharp.png" width="50">
-  <img alt="Javascript" src="BASH.png" width="50">
-</picture>
+
+
+<div>
+  <picture>
+    <img alt="Javascript" src="Javascript.png" width="50" />
+  </picture>
+  <picture>
+    <img alt="Java" src="Java.png" width="38" />
+  </picture>
+  <picture>
+    <img alt="Csharop" src="Csharp.png" width="60" />
+  </picture>
+  <picture>
+    <img alt="BASH" src="BASH.png" width="50" />
+  </picture>
+</div>
