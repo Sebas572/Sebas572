@@ -1,9 +1,11 @@
-### Hi there 👋, my name is Sebastian
-## I am a web developer
+# Hi there 👋, my name is Sebastian
+### I am a web developer
 
-> Skills: JS / Java / C# / HTML / CSS
+> Skills
+> 
+> **JS** / **Java** / C# / HTML / CSS
 
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning React.js
 
 
 
@@ -12,10 +14,10 @@
     <img alt="Javascript" src="Javascript.png" width="50" />
   </picture>
   <picture>
-    <img alt="Java" src="Java.png" width="38" />
+    <img alt="Java" src="Java.png" width="50" />
   </picture>
   <picture>
-    <img alt="Csharop" src="Csharp.png" width="60" />
+    <img alt="Csharop" src="Csharp.png" width="50" />
   </picture>
   <picture>
     <img alt="BASH" src="BASH.png" width="50" />
