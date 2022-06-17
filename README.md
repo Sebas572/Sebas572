@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Sebastian
+## I am a web developer
 
-<!--
-**Sebas572/Sebas572** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Skills: JS / Java / C# / HTML / CSS
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning React 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <img alt="Javascript" src="Javascript.png" width="50">
+  <img alt="Javascript" src="Java.png" width="50">
+  <img alt="Javascript" src="Csharp.png" width="50">
+  <img alt="Javascript" src="BASH.png" width="50">
+</picture>
