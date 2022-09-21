@@ -1,5 +1,5 @@
 # Hi there 👋, my name is Sebastian
-### I am a web developer
+### I am a **backend** web developer
 
 > My skills are:
 > 
