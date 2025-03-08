@@ -45,8 +45,8 @@
 #### **Testing**  
 [![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)  
 
-#### **IDEs**  
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea)](https://skillicons.dev)  
+#### **IDEs & Code Editors**  
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,sublime)](https://skillicons.dev)  
 
 #### **DevOps & Systems**  
 [![My Skills](https://skillicons.dev/icons?i=git,docker,linux,debian)](https://skillicons.dev)
